@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/portfolio-website.git
+    git clone https://github.com/Praveenjayasiri/portfolio-website.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -34,10 +34,6 @@ To run this project locally, follow these steps:
 To view the website, simply open `index.html` in your web browser.
 
 For development, you can use any code editor to modify the HTML, CSS, and JavaScript files. If you make changes, ensure to test the website across different devices and browsers to maintain its responsiveness and functionality.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
